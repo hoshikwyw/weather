@@ -2,7 +2,7 @@ import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import { SplashScreen, Stack } from 'expo-router'
 
-// SplashScreen.preventAutoHideAsync()
+SplashScreen.preventAutoHideAsync()
 
 const _layout = () => {
     return (
