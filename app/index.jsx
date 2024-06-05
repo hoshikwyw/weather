@@ -45,7 +45,7 @@ const index = () => {
                 <View className=" flex justify-around flex-1 mb-2">
                     {/* location  */}
                     <Text className=" text-white text-center text-2xl font-bold">
-                        London , 
+                        London ,
                         <Text className=" text-lg font-semibold text-gray-300">
                             United Kingdom
                         </Text>
